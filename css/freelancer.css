@@ -284,14 +284,16 @@ form .row:first-child .floating-label-form-group {
 }
 
 .footer {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 0;
+  padding-bottom: 0;
   background-color: #DB7093;
   color: #fff;
 }
 
 .copyright {
   background-color: #DB7093;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 a {
